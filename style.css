@@ -232,7 +232,8 @@ display: none;
 
 @media screen and (max-width: 375px) 
 {
-.modal_container {
+
+    .modal_container {
     position: absolute;
     /* border: 2px solid blue; */
     height: 13rem;
