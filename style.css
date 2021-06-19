@@ -195,7 +195,7 @@ display: none;
  
 }
 
-@media screen and (max-width: 500px) and (min-width:376px) 
+@media only screen and (max-width: 500px) and (min-width:376px) 
 {
     .filter-colors__container {
         height: 79%;
@@ -230,7 +230,7 @@ display: none;
     }
 }
 
-@media screen and (max-width: 375px) 
+@media only screen and (max-width: 375px) 
 {
 
     .modal_container {
